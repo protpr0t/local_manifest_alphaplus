@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com" />
+
+  <project path="device/lge/alphaplus" name="protpr0t/android_device_lge_alphaplus" remote="github" revision="lineage-22.2" clone-depth="1" />
+  <project path="device/lge/sm8150-common" name="protpr0t/android_device_lge_sm8150-common" remote="github" revision="lineage-22.2" clone-depth="1" />
+  <project path="hardware/lge" name="LineageOS/android_hardware_lge" remote="github" revision="lineage-22.2" clone-depth="1" />
+  <project path="kernel/lge/sm8150" name="rainbowdashh/android_kernel_lge_sm8150" remote="github" revision="lineage-22.2" clone-depth="1" />
+  <project path="vendor/lge/alphaplus" name="protpr0t/proprietary_vendor_lge_alphaplus" remote="github" revision="lineage-22.2" clone-depth="1" />
+  <project path="vendor/lge/sm8150-common" name="protpr0t/proprietary_vendor_lge_sm8150-common" remote="github" revision="lineage-22.2" clone-depth="1" />
+</manifest>
