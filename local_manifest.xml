@@ -15,5 +15,5 @@
         <project path="vendor/lge/sm8150-common" name="protpr0t/proprietary_vendor_lge_sm8150-common" remote="rem" revision="lineage-22.2" clone-depth="1" />
 
         <!-- Kernel Source -->
-        <project path="kernel/lge/sm8150" name="rainbowdashh/android_kernel_lge_sm8150" remote="rem" revision="lineage-22.2" clone-depth="1" />
+        <project path="kernel/lge/sm8150" name="LineageOS/android_kernel_lge_sm8150" remote="rem" revision="lineage-22.2" clone-depth="1" />
 </manifest>
