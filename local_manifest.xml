@@ -11,8 +11,8 @@
         <project path="device/lge/sm8150-common" name="protpr0t/android_device_lge_sm8150-common" remote="rem" revision="lineage-22.2" clone-depth="1" />
 
         <!-- Vendor Blobs -->
-        <project path="vendor/lge/alphaplus" name="protpr0t/android_vendor_lge_alphaplus" remote="rem" revision="lineage-22.2" clone-depth="1" />
-        <project path="vendor/lge/sm8150-common" name="protpr0t/android_vendor_lge_sm8150-common" remote="rem" revision="lineage-22.2" clone-depth="1" />
+        <project path="vendor/lge/alphaplus" name="rainbowdashh/android_vendor_lge_alphaplus" remote="rem" revision="lineage-22.2" clone-depth="1" />
+        <project path="vendor/lge/sm8150-common" name="rainbowdashh/android_vendor_lge_sm8150-common" remote="rem" revision="lineage-22.2" clone-depth="1" />
 
         <!-- Kernel Source -->
         <project path="kernel/lge/sm8150" name="LineageOS/android_kernel_lge_sm8150" remote="rem" revision="lineage-22.2" clone-depth="1" />
