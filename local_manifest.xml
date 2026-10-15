@@ -11,7 +11,7 @@
         <project path="device/lge/sm8150-common" name="tryhardkip/android_device_lge_sm8150-common" remote="rem" revision="lineage-23.2" clone-depth="1" />
 
         <!-- Vendor Blobs (Using standard LineageOS proprietary mirrors) -->
-        <project path="vendor/lge/alphaplus" name="tryhardkip/proprietary_vendor_lge_alphaplus" remote="rem" revision="lineage-23.2" clone-depth="1" />
+        <project path="vendor/lge/alphaplus" name="protpr0t/proprietary_vendor_lge_alphaplus" remote="rem" revision="lineage-21" clone-depth="1" />
         <project path="vendor/lge/sm8150-common" name="rainbowdashh/proprietary_vendor_lge_sm8150-common" remote="rem" revision="lineage-23.2" clone-depth="1" />
 
         <!-- Kernel Source -->
