@@ -4,16 +4,16 @@
                 fetch="https://github.com" />
 
         <!-- LGE Hardware Specific Support -->
-        <project path="hardware/lge" name="rainbowdashh/android_hardware_lge" remote="rem" revision="lineage-23.2" clone-depth="1" />
+        <project path="hardware/lge" name="lge-qcom-dev/android_hardware_lge" remote="rem" revision="lineage-22.2" clone-depth="1" />
 
         <!-- Device Trees -->
-        <project path="device/lge/alphaplus" name="protpr0t/android_device_lge_alphaplus" remote="rem" revision="axion" clone-depth="1" />
-        <project path="device/lge/sm8150-common" name="tryhardkip/android_device_lge_sm8150-common" remote="rem" revision="lineage-23.2" clone-depth="1" />
+        <project path="device/lge/alphaplus" name="protpr0t/android_device_lge_alphaplus" remote="rem" revision="derpfest" clone-depth="1" />
+        <project path="device/lge/sm8150-common" name="lge-qcom-dev/android_device_lge_sm8150-common" remote="rem" revision="lineage-22.2" clone-depth="1" />
 
         <!-- Vendor Blobs (Using standard LineageOS proprietary mirrors) -->
-        <project path="vendor/lge/alphaplus" name="protpr0t/proprietary_vendor_lge_alphaplus" remote="rem" revision="lineage-21" clone-depth="1" />
-        <project path="vendor/lge/sm8150-common" name="rainbowdashh/proprietary_vendor_lge_sm8150-common" remote="rem" revision="lineage-23.2" clone-depth="1" />
+        <project path="vendor/lge/alphaplus" name="lge-qcom-dev/proprietary_vendor_lge_alphaplus" remote="rem" revision="lineage-22.2" clone-depth="1" />
+        <project path="vendor/lge/sm8150-common" name="lge-qcom-dev/proprietary_vendor_lge_sm8150-common" remote="rem" revision="lineage-22.2" clone-depth="1" />
 
         <!-- Kernel Source -->
-        <project path="kernel/lge/sm8150" name="rainbowdashh/android_kernel_lge_sm8150" remote="rem" revision="lineage-23.2" clone-depth="1" />
+        <project path="kernel/lge/sm8150" name="lge-qcom-dev/android_kernel_lge_sm8150" remote="rem" revision="lineage-22.2" clone-depth="1" />
 </manifest>
