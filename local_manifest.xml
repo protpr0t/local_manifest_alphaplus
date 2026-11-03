@@ -18,5 +18,5 @@
         <project path="kernel/lge/sm8150" name="rainbowdashh/android_kernel_lge_sm8150" remote="rem" revision="lineage-23.2" clone-depth="1" />
 
         <!-- Private Signing Keys -->
-        <project path="vendor/lineage-priv/keys" name="protpr0t/android_vendor_lineage-priv_keys" remote="rem" revision="main" clone-depth="1" />
+        <project path="vendor/evolution-priv/keys" name="protpr0t/android_vendor_lineage-priv_keys" remote="rem" revision="main" clone-depth="1" />
 </manifest>
