@@ -14,6 +14,8 @@
         <project path="vendor/lge/alphaplus" name="protpr0t/proprietary_vendor_lge_alphaplus" remote="rem" revision="lineage-23.2" clone-depth="1" />
         <project path="vendor/lge/sm8150-common" name="rainbowdashh/proprietary_vendor_lge_sm8150-common" remote="rem" revision="lineage-23.2" clone-depth="1" />
 
+        <project path="device/lineage/sepolicy" name="DerpFest-AOSP/android_device_derpfest_sepolicy" remote="rem" revision="16.2" clone-depth="1" />
+
         <!-- Kernel Source -->
         <project path="kernel/lge/sm8150" name="rainbowdashh/android_kernel_lge_sm8150" remote="rem" revision="lineage-23.2" clone-depth="1" />
 </manifest>
