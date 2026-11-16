@@ -8,7 +8,7 @@
 
         <!-- Device Trees -->
         <project path="device/lge/alphaplus" name="protpr0t/android_device_lge_alphaplus" remote="rem" revision="infinity-17" clone-depth="1" />
-        <project path="device/lge/sm8150-common" name="lge-qcom-dev/android_device_lge_sm8150-common" remote="rem" revision="lineage-24.0" clone-depth="1" />
+        <project path="device/lge/sm8150-common" name="lge-qcom-dev/android_device_lge_sm8150-common" remote="rem" revision="lineage-24.0-ims" clone-depth="1" />
 
         <!-- Vendor Blobs (Using standard LineageOS proprietary mirrors) -->
         <project path="vendor/lge/alphaplus" name="lge-qcom-dev/proprietary_vendor_lge_alphaplus" remote="rem" revision="lineage-24.0" clone-depth="1" />
